@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My Updated Hugo Site'
-theme = 'ananke'
+theme = 'hugo-book'
 
 [caches]
   [caches.images]
