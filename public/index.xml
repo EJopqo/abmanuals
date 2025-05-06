@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 06 May 2025 22:34:15 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Leermoment</title>
+      <link>http://localhost:1313/docs/leermoment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/leermoment/</guid>
+      <description>&lt;h1 id=&#34;zo-leer-je-nog-eens-wat&#34;&gt;&#xA;  Zo leer je nog eens wat&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#zo-leer-je-nog-eens-wat&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Verkeerde categorie, kan gebeuren! Kijken wat ie doet…. 👀&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Een Eerste Keer</title>
       <link>http://localhost:1313/posts/een-eerste-keer/</link>
       <pubDate>Tue, 06 May 2025 22:34:15 +0200</pubDate>
